@@ -7,3 +7,4 @@ print("Hello " + input("What is your name?") + "!")
 
 # Doing Exercise: print legth of input
 print(len(input("Enter the input: ")))
+
